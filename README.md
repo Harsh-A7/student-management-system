@@ -46,7 +46,7 @@ student-management-system/
 ```
 ## 📸 Output Screenshot
 
-![Output](screenshot3.png)
+![Output](Screenshot3.png)
 ---
 
 ## 📌 Future Improvements
