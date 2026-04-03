@@ -34,28 +34,6 @@ student-management-system/
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/student-management-system.git
-```
-
-2. Navigate to the folder:
-
-```
-cd student-management-system
-```
-
-3. Run the program:
-
-```
-python student_management_system.py
-```
-
----
-
 ## 🖥️ Sample Menu
 
 ```
@@ -66,7 +44,9 @@ python student_management_system.py
 5. Update Student
 6. Exit
 ```
+## 📸 Output Screenshot
 
+![Output](screenshot3.png)
 ---
 
 ## 📌 Future Improvements
@@ -76,6 +56,8 @@ python student_management_system.py
 * Authentication system
 
 ---
+
+
 
 ## 👨‍💻 Author
 
